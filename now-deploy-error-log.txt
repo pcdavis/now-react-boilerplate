@@ -1,0 +1,697 @@
+
+
+
+11/28 10:51 AM (5h)
+ngrok - downloading progress: 4872321/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 4888705/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 4895113/5363700
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 4911497/5363700
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 4927881/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 4944265/5363700
+11/28 10:51 AM (5h)
+G
+11/28 10:51 AM (5h)
+ngrok - downloading progress: 4960649/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 4976201/5363700G
+11/28 10:51 AM (5h)
+ngrok - downloading progress: 4992585/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5008969/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5025353/5363700
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5041737/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5058121/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5060185/5363700G
+11/28 10:51 AM (5h)
+ngrok - downloading progress: 5076569/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5092953/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5100729/5363700G
+11/28 10:51 AM (5h)
+ngrok - downloading progress: 5117113/5363700
+11/28 10:51 AM (5h)
+G
+11/28 10:51 AM (5h)
+ngrok - downloading progress: 5133497/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5149881/5363700
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5166265/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5182649/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5199033/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5215417/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5220913/5363700G
+11/28 10:51 AM (5h)
+ngrok - downloading progress: 5237297/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5246977/5363700G
+11/28 10:51 AM (5h)
+ngrok - downloading progress: 5263361/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5279745/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5296129/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5312513/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5328897/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5363700/5363700
+11/28 10:51 AM (5h)
+
+ngrok - binary downloaded to /tmp/.ngrok/aHR0cHM6Ly9iaW4uZXF1aW5veC5pby9jLzRWbUR6QTdpYUhiL25ncm9rLXN0YWJsZS1saW51eC1hbWQ2NC56aXA=.zip
+11/28 10:51 AM (5h)
+ngrok - unpacking binary
+11/28 10:51 AM (5h)
+ngrok - binary unpacked to /tmp/6ce1ee4b/user/node_modules/ngrok/bin/ngrok
+11/28 10:51 AM (5h)
+
+> styled-components@4.0.2 postinstall /tmp/6ce1ee4b/user/node_modules/styled-components
+> node ./scripts/postinstall.js || exit 0
+
+11/28 10:51 AM (5h)
+Use styled-components at work? Consider supporting our development efforts at https://opencollective.com/styled-components
+11/28 10:51 AM (5h)
+npm
+11/28 10:51 AM (5h)
+ WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_modules/fsevents):
+11/28 10:51 AM (5h)
+npm WARN 
+11/28 10:51 AM (5h)
+notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.4: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+added 1908 packages in 47.94s
+11/28 10:51 AM (5h)
+npm
+11/28 10:51 AM (5h)
+ 
+11/28 10:51 AM (5h)
+WARN 
+11/28 10:51 AM (5h)
+using --force I sure hope you know what you are doing.
+11/28 10:51 AM (5h)
+npm
+11/28 10:51 AM (5h)
+ WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_modules/fsevents):
+npm WARN 
+11/28 10:51 AM (5h)
+notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.4: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+added 1908 packages in 49.098s
+11/28 10:51 AM (5h)
+npm
+11/28 10:51 AM (5h)
+ WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_modules/fsevents):
+11/28 10:51 AM (5h)
+npm WARN 
+11/28 10:51 AM (5h)
+notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.4: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+added 1908 packages in 49.133s
+11/28 10:51 AM (5h)
+npm
+11/28 10:51 AM (5h)
+using --force
+11/28 10:51 AM (5h)
+ I sure hope you know what you are doing.
+11/28 10:51 AM (5h)
+npm
+11/28 10:51 AM (5h)
+ 
+11/28 10:51 AM (5h)
+WARN 
+11/28 10:51 AM (5h)
+using --force I sure hope you know what you are doing.
+11/28 10:51 AM (5h)
+writing ncc package.json...
+11/28 10:51 AM (5h)
+running npm install for ncc...
+11/28 10:51 AM (5h)
+installing to /tmp/36774375/ncc
+11/28 10:51 AM (5h)
+yarn install v1.12.3
+11/28 10:51 AM (5h)
+warning package.json: No license field
+11/28 10:51 AM (5h)
+info No lockfile found.
+11/28 10:51 AM (5h)
+warning No license field
+11/28 10:51 AM (5h)
+[1/4] Resolving packages...
+11/28 10:51 AM (5h)
+[2/4] Fetching packages...
+11/28 10:51 AM (5h)
+writing ncc package.json...
+11/28 10:51 AM (5h)
+running npm install for ncc...
+11/28 10:51 AM (5h)
+installing to /tmp/6ce1ee4b/ncc
+11/28 10:51 AM (5h)
+[3/4] Linking dependencies...
+11/28 10:51 AM (5h)
+[4/4] Building fresh packages...
+11/28 10:51 AM (5h)
+running "npm run now-build"
+11/28 10:51 AM (5h)
+success Saved lockfile.
+11/28 10:51 AM (5h)
+Done in 0.64s.
+11/28 10:51 AM (5h)
+
+> react-boilerplate@3.7.0 now-build /tmp/193f2b5
+> react-scripts build && mv build dist
+
+11/28 10:51 AM (5h)
+sh: react-scripts: command not found
+11/28 10:51 AM (5h)
+npm
+11/28 10:51 AM (5h)
+ ERR!
+11/28 10:51 AM (5h)
+ file
+11/28 10:51 AM (5h)
+ sh
+11/28 10:51 AM (5h)
+npm ERR!
+11/28 10:51 AM (5h)
+ code
+11/28 10:51 AM (5h)
+ ELIFECYCLE
+npm
+11/28 10:51 AM (5h)
+ ERR!
+11/28 10:51 AM (5h)
+ errno ENOENT
+11/28 10:51 AM (5h)
+npm ERR!
+11/28 10:51 AM (5h)
+ syscall
+11/28 10:51 AM (5h)
+ spawn
+11/28 10:51 AM (5h)
+npm
+11/28 10:51 AM (5h)
+ ERR!
+11/28 10:51 AM (5h)
+ react-boilerplate@3.7.0 now-build: `react-scripts build && mv build dist`
+npm 
+11/28 10:51 AM (5h)
+ERR! spawn ENOENT
+11/28 10:51 AM (5h)
+npm
+11/28 10:51 AM (5h)
+ ERR!
+11/28 10:51 AM (5h)
+ 
+npm 
+11/28 10:51 AM (5h)
+ERR!
+11/28 10:51 AM (5h)
+ Failed at the react-boilerplate@3.7.0 now-build script.
+npm 
+11/28 10:51 AM (5h)
+ERR! This is probably not a problem with npm. There is likely additional logging output above.
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+npm ERR!
+11/28 10:51 AM (5h)
+ A complete log of this run can be found in:
+npm
+11/28 10:51 AM (5h)
+ ERR!     /tmp/.npm/_logs/2018-11-28T15_51_39_307Z-debug.log
+11/28 10:51 AM (5h)
+patching https://api-bru1.zeit.co/v2/now/deployments/dpl_99pjbgxiVDGy5VZ1YeDgLubgA2qV/builds/bld_h8kxut64n with {"readyState":"ERROR","errorCode":"BUILD_FAILED"}
+11/28 10:51 AM (5h)
+yarn install v1.12.3
+11/28 10:51 AM (5h)
+warning package.json: No license field
+11/28 10:51 AM (5h)
+info No lockfile found.
+11/28 10:51 AM (5h)
+warning No license field
+11/28 10:51 AM (5h)
+[1/4] Resolving packages...
+11/28 10:51 AM (5h)
+yarn cache v1.12.3
+11/28 10:51 AM (5h)
+warning package.json: No license field
+11/28 10:51 AM (5h)
+success Cleared cache.
+11/28 10:51 AM (5h)
+Done in 0.13s.
+11/28 10:51 AM (5h)
+running user script...
+11/28 10:51 AM (5h)
+running "npm run now-build"
+11/28 10:51 AM (5h)
+[2/4] Fetching packages...
+11/28 10:51 AM (5h)
+
+> react-boilerplate@3.7.0 now-build /tmp/36774375/user
+> react-scripts build && mv build dist
+
+11/28 10:51 AM (5h)
+sh: react-scripts: command not found
+11/28 10:51 AM (5h)
+npm
+11/28 10:51 AM (5h)
+ ERR!
+11/28 10:51 AM (5h)
+ file
+11/28 10:51 AM (5h)
+ sh
+11/28 10:51 AM (5h)
+npm ERR!
+11/28 10:51 AM (5h)
+ code
+11/28 10:51 AM (5h)
+ ELIFECYCLE
+npm
+11/28 10:51 AM (5h)
+ ERR! 
+11/28 10:51 AM (5h)
+errno ENOENT
+11/28 10:51 AM (5h)
+ ERR!
+11/28 10:51 AM (5h)
+ react-boilerplate@3.7.0 now-build: `react-scripts build && mv build dist`
+npm 
+11/28 10:51 AM (5h)
+ERR! spawn ENOENT
+11/28 10:51 AM (5h)
+npm
+11/28 10:51 AM (5h)
+ ERR!
+11/28 10:51 AM (5h)
+ 
+npm 
+11/28 10:51 AM (5h)
+ERR!
+11/28 10:51 AM (5h)
+ Failed at the react-boilerplate@3.7.0 now-build script.
+npm 
+11/28 10:51 AM (5h)
+ERR! This is probably not a problem with npm. There is likely additional logging output above.
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+npm ERR!
+11/28 10:51 AM (5h)
+ A complete log of this run can be found in:
+npm ERR!
+11/28 10:51 AM (5h)
+     /tmp/.npm/_logs/2018-11-28T15_51_39_867Z-debug.log
+11/28 10:51 AM (5h)
+patching https://api-bru1.zeit.co/v2/now/deployments/dpl_99pjbgxiVDGy5VZ1YeDgLubgA2qV/builds/bld_d2547v9wz with {"readyState":"ERROR","errorCode":"BUILD_FAILED"}
+11/28 10:51 AM (5h)
+{ Error: Exited with 1
+    at ChildProcess.child.on (/tmp/utils/node_modules/@now/build-utils/fs/run-user-scripts.js:11:16)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5) reported: true }
+11/28 10:51 AM (5h)
+{ Error: Exited with 1
+    at ChildProcess.child.on (/tmp/utils/node_modules/@now/build-utils/fs/run-user-scripts.js:11:16)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5) reported: true }
+11/28 10:51 AM (5h)
+[3/4] Linking dependencies...
+11/28 10:51 AM (5h)
+[4/4] Building fresh packages...
+11/28 10:51 AM (5h)
+success Saved lockfile.
+11/28 10:51 AM (5h)
+Done in 5.53s.
+11/28 10:51 AM (5h)
+yarn cache v1.12.3
+11/28 10:51 AM (5h)
+warning package.json: No license field
+11/28 10:51 AM (5h)
+success Cleared cache.
+11/28 10:51 AM (5h)
+Done in 0.14s.
+11/28 10:51 AM (5h)
+running user script...
+11/28 10:51 AM (5h)
+running "npm run now-build"
+11/28 10:51 AM (5h)
+
+> react-boilerplate@3.7.0 now-build /tmp/6ce1ee4b/user
+> react-scripts build && mv build dist
+11/28 10:51 AM (5h)
+sh: react-scripts: command not found
+11/28 10:51 AM (5h)
+npm
+11/28 10:51 AM (5h)
+ ERR!
+11/28 10:51 AM (5h)
+ file
+11/28 10:51 AM (5h)
+ sh
+11/28 10:51 AM (5h)
+npm ERR!
+11/28 10:51 AM (5h)
+ code
+11/28 10:51 AM (5h)
+ ELIFECYCLE
+npm
+11/28 10:51 AM (5h)
+ ERR! 
+11/28 10:51 AM (5h)
+errno ENOENT
+11/28 10:51 AM (5h)
+npm ERR!
+11/28 10:51 AM (5h)
+ syscall spawn
+11/28 10:51 AM (5h)
+npm
+11/28 10:51 AM (5h)
+ ERR!
+11/28 10:51 AM (5h)
+ react-boilerplate@3.7.0 now-build: `react-scripts build && mv build dist`
+npm 
+11/28 10:51 AM (5h)
+ERR! spawn ENOENT
+11/28 10:51 AM (5h)
+npm
+11/28 10:51 AM (5h)
+ ERR!
+11/28 10:51 AM (5h)
+ 
+npm 
+11/28 10:51 AM (5h)
+ERR!
+11/28 10:51 AM (5h)
+ Failed at the react-boilerplate@3.7.0 now-build script.
+npm 
+11/28 10:51 AM (5h)
+ERR! This is probably not a problem with npm. There is likely additional logging output above.
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+npm 
+11/28 10:51 AM (5h)
+ERR! A complete log of this run can be found in:
+npm
+11/28 10:51 AM (5h)
+ ERR!     /tmp/.npm/_logs/2018-11-28T15_51_45_870Z-debug.log
+11/28 10:51 AM (5h)
+patching https://api-bru1.zeit.co/v2/now/deployments/dpl_99pjbgxiVDGy5VZ1YeDgLubgA2qV/builds/bld_egrcph0lt with {"readyState":"ERROR","errorCode":"BUILD_FAILED"}
+11/28 10:51 AM (5h)
+{ Error: Exited with 1
+    at ChildProcess.child.on (/tmp/utils/node_modules/@now/build-utils/fs/run-user-scripts.js:11:16)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5) reported: true }
+
+> pre-commit@1.2.2 install /tmp/2daa68fd/user/node_modules/pre-commit
+> node install.js
+
+11/28 10:51 AM (5h)
+
+> spawn-sync@1.0.15 postinstall /tmp/2daa68fd/user/node_modules/spawn-sync
+> node postinstall
+
+11/28 10:51 AM (5h)
+
+> cwebp-bin@4.0.0 postinstall /tmp/2daa68fd/user/node_modules/cwebp-bin
+> node lib/install.js
+
+11/28 10:51 AM (5h)
+  ✔ cwebp pre-build test passed successfully
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+
+> gifsicle@3.0.4 postinstall /tmp/2daa68fd/user/node_modules/gifsicle
+> node lib/install.js
+
+11/28 10:51 AM (5h)
+  ✔ gifsicle pre-build test passed successfully
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+
+> mozjpeg@5.0.0 postinstall /tmp/2daa68fd/user/node_modules/mozjpeg
+> node lib/install.js
+
+11/28 10:51 AM (5h)
+  ⚠ The `/tmp/2daa68fd/user/node_modules/mozjpeg/vendor/cjpeg` binary doesn't seem to work correctly
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+  ⚠ mozjpeg pre-build test failed
+11/28 10:51 AM (5h)
+  ℹ compiling from source
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+  ✖ Error: autoreconf -fiv && ./configure --disable-shared --disable-dependency-tracking --with-jpeg8  --prefix="/tmp/2daa68fd/user/node_modules/mozjpeg/vendor" --bindir="/tmp/2daa68fd/user/node_modules/mozjpeg/vendor" --libdir="/tmp/2daa68fd/user/node_modules/mozjpeg/vendor" && make -j2 && make install -j2
+Command failed: autoreconf -fiv
+/bin/sh: autoreconf: command not found
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+
+> optipng-bin@3.1.4 postinstall /tmp/2daa68fd/user/node_modules/optipng-bin
+> node lib/install.js
+
+11/28 10:51 AM (5h)
+  ✔ optipng pre-build test passed successfully
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+
+> pngquant-bin@5.0.0 postinstall /tmp/2daa68fd/user/node_modules/pngquant-bin
+> node lib/install.js
+
+11/28 10:51 AM (5h)
+  ✔ pngquant pre-build test passed successfully
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+
+> ngrok@3.1.0 postinstall /tmp/2daa68fd/user/node_modules/ngrok
+> node ./postinstall.js
+
+11/28 10:51 AM (5h)
+ngrok - downloading binary https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
+11/28 10:51 AM (5h)
+ngrok - downloading progress: 0/5363700
+11/28 10:51 AM (5h)
+ngrok - downloading progress: 4986337/5363700Gngrok - downloading progress: 5002721/5363700
+11/28 10:51 AM (5h)
+G
+11/28 10:51 AM (5h)
+ngrok - downloading progress: 5019105/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5035489/5363700
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5051873/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5068257/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5076113/5363700G
+11/28 10:51 AM (5h)
+ngrok - downloading progress: 5092497/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5108881/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5125265/5363700
+11/28 10:51 AM (5h)
+G
+11/28 10:51 AM (5h)
+ngrok - downloading progress: 5136929/5363700G
+11/28 10:51 AM (5h)
+ngrok - downloading progress: 5153313/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5169697/5363700
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5186081/5363700Gngrok - downloading progress: 5202089/5363700Gngrok - downloading progress: 5218473/5363700Gngrok - downloading progress: 5234857/5363700Gngrok - downloading progress: 5251241/5363700Gngrok - downloading progress: 5267625/5363700Gngrok - downloading progress: 5284009/5363700Gngrok - downloading progress: 5290417/5363700Gngrok - downloading progress: 5306801/5363700Gngrok - downloading progress: 5323185/5363700
+11/28 10:51 AM (5h)
+
+11/28 10:51 AM (5h)
+Gngrok - downloading progress: 5339569/5363700
+
+11/28 10:52 AM (5h)
+[3/4] Linking dependencies...
+11/28 10:52 AM (5h)
+[4/4] Building fresh packages...
+11/28 10:52 AM (5h)
+success Saved lockfile.
+11/28 10:52 AM (5h)
+Done in 0.71s.
+11/28 10:52 AM (5h)
+yarn cache v1.12.3
+11/28 10:52 AM (5h)
+warning package.json: No license field
+11/28 10:52 AM (5h)
+success Cleared cache.
+11/28 10:52 AM (5h)
+Done in 0.14s.
+11/28 10:52 AM (5h)
+running user script...
+11/28 10:52 AM (5h)
+running "npm run now-build"
+11/28 10:52 AM (5h)
+
+> react-boilerplate@3.7.0 now-build /tmp/2daa68fd/user
+> react-scripts build && mv build dist
+
+11/28 10:52 AM (5h)
+sh: react-scripts: command not found
+11/28 10:52 AM (5h)
+npm
+11/28 10:52 AM (5h)
+ ERR!
+11/28 10:52 AM (5h)
+ file
+11/28 10:52 AM (5h)
+ sh
+npm
+11/28 10:52 AM (5h)
+ ERR!
+11/28 10:52 AM (5h)
+ code
+11/28 10:52 AM (5h)
+ ELIFECYCLE
+npm
+11/28 10:52 AM (5h)
+ ERR! 
+11/28 10:52 AM (5h)
+errno ENOENT
+11/28 10:52 AM (5h)
+npm ERR!
+11/28 10:52 AM (5h)
+ syscall spawn
+11/28 10:52 AM (5h)
+npm
+11/28 10:52 AM (5h)
+ ERR!
+11/28 10:52 AM (5h)
+ react-boilerplate@3.7.0 now-build: `react-scripts build && mv build dist`
+npm 
+11/28 10:52 AM (5h)
+ERR! spawn ENOENT
+11/28 10:52 AM (5h)
+npm
+11/28 10:52 AM (5h)
+ ERR!
+11/28 10:52 AM (5h)
+ 
+npm 
+11/28 10:52 AM (5h)
+ERR!
+11/28 10:52 AM (5h)
+ Failed at the react-boilerplate@3.7.0 now-build script.
+npm 
+11/28 10:52 AM (5h)
+ERR! This is probably not a problem with npm. There is likely additional logging output above.
+11/28 10:52 AM (5h)
+
+11/28 10:52 AM (5h)
+npm 
+11/28 10:52 AM (5h)
+ERR! A complete log of this run can be found in:
+npm
+11/28 10:52 AM (5h)
+ ERR!     /tmp/.npm/_logs/2018-11-28T15_52_03_128Z-debug.log
+11/28 10:52 AM (5h)
+patching https://api-bru1.zeit.co/v2/now/deployments/dpl_99pjbgxiVDGy5VZ1YeDgLubgA2qV/builds/bld_p2njqyrfi with {"readyState":"ERROR","errorCode":"BUILD_FAILED"}
+11/28 10:52 AM (5h)
+{ Error: Exited with 1
+    at ChildProcess.child.on (/tmp/utils/node_modules/@now/build-utils/fs/run-user-scripts.js:11:16)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5) reported: true }
